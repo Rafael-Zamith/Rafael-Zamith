@@ -2,7 +2,7 @@
 - 🔭 Sempre aprendendo para melhorar minhas habilidades
 - 🌱 Querendo aprender de tudo
 - 👯 Sempre aberto a colaborações 
-- 🥅 Objetivos nesse ano: participar de mais ctf
+- 🥅 Objetivos nesse ano: participar em mais ctf
 - ⚡ Fun fact: adoro tirar fotos de paisagens <!--tentar deixar aleatório com varias coisas-->
 
 <!--Redes Sociais -->
