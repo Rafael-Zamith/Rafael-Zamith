@@ -9,7 +9,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<!--Stats 
+<!--Stats--> 
 
 ## Stats
 (https://github-readme-stats.vercel.app/api?username=Rafael-Zamith&theme=dark&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true)-->
@@ -19,7 +19,7 @@
 --
 ## Top Linguagens:
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark)
 
 
 
