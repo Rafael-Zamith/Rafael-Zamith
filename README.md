@@ -7,8 +7,10 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 <!--Stats 
---
+
 ## Stats
 (https://github-readme-stats.vercel.app/api?username=Rafael-Zamith&theme=dark&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true)-->
 
@@ -16,7 +18,8 @@
 <!--Langs-->
 --
 ## Top Linguagens:
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark)
+
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark)]
 
 
 
