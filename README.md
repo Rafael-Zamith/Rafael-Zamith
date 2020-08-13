@@ -19,7 +19,7 @@
 
 ## Top Linguagens
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark)
+<img align="left" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Zamith&layout=compact&theme=dark&hide_border=true"/>
 
 
 
